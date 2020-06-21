@@ -18,3 +18,6 @@
 
 # Results
 * My solution for the problem ended with an accuracy score of 0.9760765550 and place 30 of 466 (top 6%) in the private leaderboard.
+
+# Data
+* You can find the data for the competition and leaderboard here: https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#LeaderBoard
